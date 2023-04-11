@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TetsWinForms", "TetsWinForms\TetsWinForms.csproj", "{78B3AB2C-62F1-4482-8BDB-87F472787D45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78B3AB2C-62F1-4482-8BDB-87F472787D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B3AB2C-62F1-4482-8BDB-87F472787D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B3AB2C-62F1-4482-8BDB-87F472787D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B3AB2C-62F1-4482-8BDB-87F472787D45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76AFA85D-D041-42F5-AF00-434786A6E2C4}
+	EndGlobalSection
+EndGlobal
